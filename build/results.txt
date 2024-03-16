@@ -1,0 +1,35 @@
+Game has been played at Mon Jan 15 06:41:58 2024
+Score: 0
+Size: 1
+You ate a deadly food, you died hehehe :)
+-------------------------
+Game has been played at Mon Jan 15 06:48:05 2024
+Score: 5
+Size: 6
+Each life ends, this one lived long and it was a natural death
+-------------------------
+Game has been played at Mon Jan 15 16:05:33 2024
+Score: 0
+Size: 1
+You ate a deadly food, you died hehehe :)
+-------------------------
+Game has been played at Mon Jan 15 16:07:48 2024
+Score: 0
+Size: 1
+Each life ends, this one lived long and it was a natural death
+-------------------------
+Game has been played at Mon Jan 15 16:27:59 2024
+Score: 0
+Size: 1
+You ate a deadly food, you died hehehe :)
+-------------------------
+Game has been played at Mon Jan 15 16:34:07 2024
+Score: 2
+Size: 3
+You ate a deadly food, you died hehehe :)
+-------------------------
+Game has been played at Mon Jan 15 16:38:05 2024
+Score: 5
+Size: 6
+Each life ends, this one lived long and it was a natural death
+-------------------------
